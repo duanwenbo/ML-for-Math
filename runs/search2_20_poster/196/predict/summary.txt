@@ -1,0 +1,5 @@
+predict order: [1, 14, 2, 7, 4, 8, 3, 0, 18, 12, 11, 6, 17, 10, 16, 15, 5, 13, 19, 9]
+ ground truth order: [1, 0, 3, 4, 14, 7, 18, 11, 17, 8, 2, 19, 13, 10, 5, 6, 9, 12, 15, 16]
+Global Graph ID: 196
+Input Node Size: 20
+Total fill-in: 10
